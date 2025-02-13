@@ -1,0 +1,6 @@
+Destination Port,Flow Duration,Total Fwd Packets,Total Backward Packets,Total Length of Fwd Packets,Fwd Packet Length Max,Fwd Packet Length Min,Fwd Packet Length Mean,Fwd Packet Length Std  ,Label
+54865,3,2,0,12,0,6,6,6,safe
+55054,109,1,1,6,6,6,6,6,unsafe
+46236,34,1,1,6,6,6,6,6,unsafe
+61374,61,1,1,6,6,6,6,6,unsafe
+61326,68,1,1,6,6,6,6,6,safe
